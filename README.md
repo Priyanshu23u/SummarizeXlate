@@ -1,4 +1,6 @@
-# RAG based text summarizer and translator for Audios
+# SummarizeXlate
+
+## RAG based text summarizer and translator for Audios
 
 ## Working
 
@@ -20,8 +22,6 @@ Large Language Models (LLMs) utilize transformer architectures for processing se
 
 
 ## Installation & Running
-
-**Important!:** Ensure you have Python installed on your system. 
 
 **Note:** This is a CLI based application. You can add a streamlit UI if you want.
 
