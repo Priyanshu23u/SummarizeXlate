@@ -41,9 +41,8 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-after all the dependencies are installed run this command to install openai whisper
+after all the dependencies are installed run this command to install google speech_to_text api
 ```bash
-pip install git+https://github.com/openai/whisper.git
 ```
 Running the application:
 
